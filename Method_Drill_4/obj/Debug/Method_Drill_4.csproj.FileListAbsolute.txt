@@ -1,0 +1,7 @@
+C:\Users\Brenden\source\repos\Method_Drill_4\Method_Drill_4\obj\Debug\Method_Drill_4.csprojAssemblyReference.cache
+C:\Users\Brenden\source\repos\Method_Drill_4\Method_Drill_4\obj\Debug\Method_Drill_4.csproj.CoreCompileInputs.cache
+C:\Users\Brenden\source\repos\Method_Drill_4\Method_Drill_4\bin\Debug\Method_Drill_4.exe.config
+C:\Users\Brenden\source\repos\Method_Drill_4\Method_Drill_4\bin\Debug\Method_Drill_4.exe
+C:\Users\Brenden\source\repos\Method_Drill_4\Method_Drill_4\bin\Debug\Method_Drill_4.pdb
+C:\Users\Brenden\source\repos\Method_Drill_4\Method_Drill_4\obj\Debug\Method_Drill_4.exe
+C:\Users\Brenden\source\repos\Method_Drill_4\Method_Drill_4\obj\Debug\Method_Drill_4.pdb
