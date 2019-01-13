@@ -1,0 +1,7 @@
+C:\Users\Brenden\source\repos\Method_6\Method_6\bin\Debug\Method_6.exe.config
+C:\Users\Brenden\source\repos\Method_6\Method_6\bin\Debug\Method_6.exe
+C:\Users\Brenden\source\repos\Method_6\Method_6\bin\Debug\Method_6.pdb
+C:\Users\Brenden\source\repos\Method_6\Method_6\obj\Debug\Method_6.csprojAssemblyReference.cache
+C:\Users\Brenden\source\repos\Method_6\Method_6\obj\Debug\Method_6.csproj.CoreCompileInputs.cache
+C:\Users\Brenden\source\repos\Method_6\Method_6\obj\Debug\Method_6.exe
+C:\Users\Brenden\source\repos\Method_6\Method_6\obj\Debug\Method_6.pdb
