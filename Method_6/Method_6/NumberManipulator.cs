@@ -13,6 +13,11 @@ namespace Method_6
             return x / 2;
         }
 
+        public int DivideTwoNumber(int x=4, int y=7)
+        {
+            return x + y;
+        }
+
        public int outPutNumbers(out int x, out int y)
         {
             Console.WriteLine("Enter the first value: ");

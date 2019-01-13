@@ -15,9 +15,13 @@ namespace CalculatorApplication
         {
             NumberManipulator a = new NumberManipulator();
             int userInput = Convert.ToInt32(Console.ReadLine());
-            int x = a.DivideTwoNumbers(userInput);
+            int solution1 = a.DivideTwoNumbers(userInput);
+            int solution2 = a.DivideTwoNumbers(x, y);
+            int solution3 = a.outPutNumbers(x, y);
 
-            Console.WriteLine("the result is " + x);
+            Console.WriteLine("the result is " + solution1);
+            Console.WriteLine("The overload result is " + solution2);
+            Console.WriteLine("the output result is " + solution3)
             Console.ReadLine();
         }
        
