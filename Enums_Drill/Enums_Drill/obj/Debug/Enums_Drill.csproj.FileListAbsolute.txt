@@ -1,0 +1,2 @@
+C:\Users\Brenden\source\repos\Enums_Drill\Enums_Drill\obj\Debug\Enums_Drill.csprojAssemblyReference.cache
+C:\Users\Brenden\source\repos\Enums_Drill\Enums_Drill\obj\Debug\Enums_Drill.csproj.CoreCompileInputs.cache
