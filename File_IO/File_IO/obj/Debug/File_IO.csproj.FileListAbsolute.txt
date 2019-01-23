@@ -1,0 +1,7 @@
+C:\Users\Brenden\source\repos\File_IO\File_IO\bin\Debug\File_IO.exe.config
+C:\Users\Brenden\source\repos\File_IO\File_IO\bin\Debug\File_IO.exe
+C:\Users\Brenden\source\repos\File_IO\File_IO\bin\Debug\File_IO.pdb
+C:\Users\Brenden\source\repos\File_IO\File_IO\obj\Debug\File_IO.csprojAssemblyReference.cache
+C:\Users\Brenden\source\repos\File_IO\File_IO\obj\Debug\File_IO.csproj.CoreCompileInputs.cache
+C:\Users\Brenden\source\repos\File_IO\File_IO\obj\Debug\File_IO.exe
+C:\Users\Brenden\source\repos\File_IO\File_IO\obj\Debug\File_IO.pdb
