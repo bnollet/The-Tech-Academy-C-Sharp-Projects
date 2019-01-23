@@ -1,0 +1,7 @@
+C:\Users\Brenden\source\repos\Lambda_Drill\Lambda_Drill\obj\Debug\Lambda_Drill.csprojAssemblyReference.cache
+C:\Users\Brenden\source\repos\Lambda_Drill\Lambda_Drill\obj\Debug\Lambda_Drill.csproj.CoreCompileInputs.cache
+C:\Users\Brenden\source\repos\Lambda_Drill\Lambda_Drill\bin\Debug\Lambda_Drill.exe.config
+C:\Users\Brenden\source\repos\Lambda_Drill\Lambda_Drill\bin\Debug\Lambda_Drill.exe
+C:\Users\Brenden\source\repos\Lambda_Drill\Lambda_Drill\bin\Debug\Lambda_Drill.pdb
+C:\Users\Brenden\source\repos\Lambda_Drill\Lambda_Drill\obj\Debug\Lambda_Drill.exe
+C:\Users\Brenden\source\repos\Lambda_Drill\Lambda_Drill\obj\Debug\Lambda_Drill.pdb
