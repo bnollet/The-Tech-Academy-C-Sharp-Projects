@@ -1,0 +1,7 @@
+C:\Users\Brenden\source\repos\Chain_Constructors_Drill\Chain_Constructors_Drill\bin\Debug\Chain_Constructors_Drill.exe.config
+C:\Users\Brenden\source\repos\Chain_Constructors_Drill\Chain_Constructors_Drill\bin\Debug\Chain_Constructors_Drill.exe
+C:\Users\Brenden\source\repos\Chain_Constructors_Drill\Chain_Constructors_Drill\bin\Debug\Chain_Constructors_Drill.pdb
+C:\Users\Brenden\source\repos\Chain_Constructors_Drill\Chain_Constructors_Drill\obj\Debug\Chain_Constructors_Drill.csprojAssemblyReference.cache
+C:\Users\Brenden\source\repos\Chain_Constructors_Drill\Chain_Constructors_Drill\obj\Debug\Chain_Constructors_Drill.csproj.CoreCompileInputs.cache
+C:\Users\Brenden\source\repos\Chain_Constructors_Drill\Chain_Constructors_Drill\obj\Debug\Chain_Constructors_Drill.exe
+C:\Users\Brenden\source\repos\Chain_Constructors_Drill\Chain_Constructors_Drill\obj\Debug\Chain_Constructors_Drill.pdb
