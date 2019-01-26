@@ -1,0 +1,7 @@
+C:\Users\Brenden\source\repos\Exception_Handling_Drill\Exception_Handling_Drill\bin\Debug\Exception_Handling_Drill.exe.config
+C:\Users\Brenden\source\repos\Exception_Handling_Drill\Exception_Handling_Drill\bin\Debug\Exception_Handling_Drill.exe
+C:\Users\Brenden\source\repos\Exception_Handling_Drill\Exception_Handling_Drill\bin\Debug\Exception_Handling_Drill.pdb
+C:\Users\Brenden\source\repos\Exception_Handling_Drill\Exception_Handling_Drill\obj\Debug\Exception_Handling_Drill.csprojAssemblyReference.cache
+C:\Users\Brenden\source\repos\Exception_Handling_Drill\Exception_Handling_Drill\obj\Debug\Exception_Handling_Drill.csproj.CoreCompileInputs.cache
+C:\Users\Brenden\source\repos\Exception_Handling_Drill\Exception_Handling_Drill\obj\Debug\Exception_Handling_Drill.exe
+C:\Users\Brenden\source\repos\Exception_Handling_Drill\Exception_Handling_Drill\obj\Debug\Exception_Handling_Drill.pdb
