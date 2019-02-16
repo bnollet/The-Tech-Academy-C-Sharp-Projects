@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<body>
+    <div class="card-body">
+        @using (Html.BeginForm("InsuranceInfo", "Home", FormMethod.Post))
+        {
+            <div class="form-group col-md-5">
+                <label for="FirstName">Please Enter your First name</label>
+                <input type="text" class="form-control" name="FirstName" id="FirstName" placeholder="Enter First Name" />
+            </div>
+            <div class="form-group col-md-5">
+                <label for="LastName">Please Enter your Last Name</label>
+                <input type="text" class="form-control" name="LastName" id="LastName" placeholder="Enter Last Name Name" />
+            </div>
+            <div class="form-group col-md-5">
+                <label for="Email">Please Enter your Email Address</label>
+                <input type="email" class="form-control" name="Email" id="Email" placeholder="Enter Email Address" />
+            </div>
+            <div class="form-group col-md-5">
+                <label for="DOB">Please Enter your Date of Birth</label>
+                <input type="date" class="form-control" name="DOB" id="DOB" placeholder="Enter your Date of Birth" />
+            </div>
+            <div class="form-group col-md-5">
+                <label for="CarYear">What is the Year your Car was made?</label>
+                <input type="number" class="form-control" id="CarYear" name="CarYear" placeholder="Year" />
+            </div>
+            <div class="form-group col-md-5">
+                <label for="CarMake">What is the Make of your car?</label>
+                <input type="text" class="form-control" id="CarMake" name="CarMake" placeholder="Make" />
+            </div>
+            <div class="form-group col-md-5">
+                <label for="CarModel">What is the Model of your car?</label>
+                <input type="text" class="form-control" id="Carmodel" name="Carmodel" placeholder="Car Model" />
+            </div>
+            <div class="form-group col-md-5">
+                <label for="CarModel">Have you ever been convicted of a DUI? Please answer "yes" or "no"</label>
+                <input type="text" class="form-control" id="DUI" name="DUI" placeholder="DUI" />
+            </div>
+            <div class="form-group col-md-5">
+                <label for="Tickets">How many speeding tickets have you recieved?</label>
+                <input type="number" class="form-control" id="Tickets" name="Tickets" placeholder="How many Speeding Tickets?" />
+            </div>
+            <div class="form-group col-md-5">
+                <label for="Coverage">Would you like full or collision coverage? please enter "full" or "collision"</label>
+                <input type="text" class="form-control" id="Coverage" name="Coverage" placeholder="Coverage" />
+            </div>
+
+            @*<div class="form-check col-md-5">
+                <input class="form-check-input" type="checkbox" value="" name="FullCoverage">
+                <label class="form-check-label" for="defaultCheck1">
+                    Would you like Full coverage?
+                </label>
+            </div>
+
+            <div class="form-check col-md-5">
+                <input class="form-check-input" type="checkbox" value="" name="LiabilityCoverage">
+                <label class="form-check-label" for="defaultCheck1">
+                    Would you Like only liability Coverage?
+                </label>
+            </div>*@
+            <div>
+                <button type="submit" class="btn btn-lg btn-primary col-lg-5">Submit</button>
+            </div>
+        }
+
+    </div>
+
+
+</body>

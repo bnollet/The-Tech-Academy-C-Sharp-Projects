@@ -1,0 +1,45 @@
+﻿@model List<Insurance_Project.InsuranceInfo>
+
+<body>
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <h1 class="display-4">Admin Information</h1>
+            <p class="lead">This page contain's Customer information and Quote Price</p>
+        </div>
+    </div>
+            <div class="list-group">
+                @foreach (var customer in Model)
+                {
+
+                    <div class="list-group-item flex-column align-items-start">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">@customer.FirstName @customer.LastName</h5>
+                            <meduim>@customer.Email</meduim>
+                        </div>
+                        <p class="mb-1"><meduim>Your Insurance Quote Price is: $@customer.price</meduim>
+                    </div>
+                }
+
+
+
+
+
+
+
+
+
+                @*<ul class="list-group">
+            <li class="list-group-item list-group-item-primary">@customer.FirstName</li>
+            <li class="list-group-item list-group-item-primary">@customer.LastName</li>
+            <li class="list-group-item list-group-item-primary">@customer.Email</li>
+            <li class="list-group-item list-group-item-primary">@customer.price</li>
+        </ul>*@
+
+
+
+            </div>
+                    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+                    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+                    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+
